@@ -1,4 +1,4 @@
-# Tutorial 2 - Python
+# Learning Python for Bioinformatics and Biological Data Analysis
 Python is a popular programming language used for many purposes ranging from building websites and software development to data analysis and automating tasks. Many people like Python over other programming languages because its syntax (language structure) is similar to the English language - after all, it was designed for readability!
 
 For these and other reasons, Python has become a language of choice for bioinformatics!
