@@ -1,5 +1,7 @@
 # Tutorial 2 - Python
-Python is a popular programming language used for many purposes ranging from building websites and software development to data analysis and automating tasks. Many people like Python over other programming languages becasue its syntax (language structure) is similar to the English language - after all, it was designed for readability!
+Python is a popular programming language used for many purposes ranging from building websites and software development to data analysis and automating tasks. Many people like Python over other programming languages because its syntax (language structure) is similar to the English language - after all, it was designed for readability!
+
+For these and other reasons, Python has become a language of choice for bioinformatics!
 
 ## General Information
 * If you're interested in learning more Python, consider enrolling in [CS 116 Introduction to Computer Science 2](https://cs.uwaterloo.ca/current/courses/course_descriptions/cDescr/CS116) at the University of Waterloo.
