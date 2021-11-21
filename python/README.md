@@ -21,7 +21,7 @@ We recommend you to install Python 3 and up.
 For the ease of this tutorial, we will be using a code editor called IDLE. IDLE is bundled with your Python installation.
 1. Open the IDLE Application
 2. Go to `File > New Window` to open the programming editor
-3. You can save your file on your compuater by navigating to `File > Save` 
+3. You can save your file on your computer by navigating to `File > Save` 
 
 ### Your First Program
 When we <i>print</i> text in a program, we're not literally talking about printing a piece of paper from a printer. <i>Print</i> means our computer is outputting some text.
