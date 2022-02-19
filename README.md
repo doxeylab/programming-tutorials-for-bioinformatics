@@ -4,7 +4,7 @@ A collection of introductory tutorials on programming basics for bioinformatics 
 ### Contributors
 This repo was initiated by undergraduate students at the University of Waterloo, in BIOL 266 and BIOL 469. Special thanks to Vivian Chu (https://github.com/vivianschu) for getting the project started, along with members of the Doxey Lab (http://doxey.uwaterloo.ca) for their contributions.
 
-### Tutorials (in progress)
+### Tutorials
 
 * Tutorial 1 - Unix
 * Tutorial 2 - Python
